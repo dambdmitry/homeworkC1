@@ -30,7 +30,7 @@ namespace Task3
 
 			Console.WriteLine();
 			Console.WriteLine("Количество нечетных элементов: " + countOdd);
-			Console.WriteLine("Количество нечетных элементов: " + (lengthArray - countOdd));
+			Console.WriteLine("Количество четных элементов: " + (lengthArray - countOdd));
 		}
 	}
 }
